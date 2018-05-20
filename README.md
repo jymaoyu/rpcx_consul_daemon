@@ -1,0 +1,2 @@
+# rpcx_consul_daemon
+注意：需要将myservice.go文件编译后daemon框架才能准确运行
